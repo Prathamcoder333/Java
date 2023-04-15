@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Calculator
  */
-public class Calculator {
+public class Main {
 
     public static void main(String[] args) 
     {
@@ -18,10 +18,10 @@ public class Calculator {
        operator = myObj.next().charAt(0);
 
     //  Take use rinput for num1 and num2
-       System.out.print("Enter first Number");
+       System.out.print("Enter first Number:  ");
        num1 = myObj.nextDouble();
 
-       System.out.println("Enter second number");
+       System.out.println("Enter second number:  ");
        num2 = myObj.nextDouble();
 
     //  USe of switch statements for sum, diff , multiply and divide
