@@ -21,7 +21,7 @@ public class Main {
        System.out.print("Enter first Number:  ");
        num1 = myObj.nextDouble();
 
-       System.out.println("Enter second number:  ");
+       System.out.println("Enter second Number:  ");
        num2 = myObj.nextDouble();
 
     //  USe of switch statements for sum, diff , multiply and divide
