@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calc {
+public class Percent {
 
     public static void main(String[] args) {
         char Subject;
